@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-mergeDebugResources-32:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-mergeDebugResources-32:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-mergeDebugResources-32:\\layout\\activity_search_screen.xml",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\activity_search_screen.xml"
+    },
+    {
+        "merged": "com.robosoft.weatherapp-mergeDebugResources-32:/layout/data_list_item.xml",
+        "source": "com.robosoft.weatherapp-main-35:/layout/data_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-mergeDebugResources-32:\\layout\\activity_recent_search.xml",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\activity_recent_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-mergeDebugResources-32:\\layout\\activity_favorite.xml",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\activity_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-mergeDebugResources-32:\\layout\\data_list_item.xml",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\data_list_item.xml"
+    }
+]

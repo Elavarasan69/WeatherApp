@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="indicator">#707070</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#673AB7</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#E32843</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yelloww">#FFE539</color>
+    <dimen name="dateTimeMargin70dp">70dp</dimen>
+    <dimen name="dateTimesize13sp">13sp</dimen>
+    <dimen name="datelineheight15dp">15dp</dimen>
+    <dimen name="datemargintop54dp">54dp</dimen>
+    <dimen name="toolbarMargin16dp">16dp</dimen>
+    <string name="_0">0%</string>
+    <string name="_22_xb0_34_xb0">22°-34°</string>
+    <string name="_47">47%</string>
+    <string name="addedtofav">Added to Favorite</string>
+    <string name="addtofav">Add to Favorite</string>
+    <string name="app_name">WeatherApp</string>
+    <string name="close">Close</string>
+    <string name="favourite">Favourite</string>
+    <string name="home">Home</string>
+    <string name="humidity">Humidity</string>
+    <string name="min_max">Min - Max</string>
+    <string name="mostly_sunny">Mostly Sunny</string>
+    <string name="open">Open</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="recent_search">Recent Search</string>
+    <string name="remove_all">Remove All</string>
+    <string name="search_for_city">Search for City</string>
+    <string name="show_result">Show Result</string>
+    <string name="wind">Wind</string>
+    <style name="Theme.WeatherApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/black</item>
+        
+    </style>
+</resources>

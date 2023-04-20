@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xhdpi_icon_favourite.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xhdpi\\icon_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxxhdpi_background.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxhdpi_menu.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxhdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xhdpi_humidity.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xhdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-hdpi_icon_favourite.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-hdpi\\icon_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxhdpi_icon_mostly_sunny_small.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxhdpi\\icon_mostly_sunny_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-hdpi_icon_mostly_sunny_small.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-hdpi\\icon_mostly_sunny_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxhdpi_humidity.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxhdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-hdpi_menu.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-hdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\layout_activity_favorite.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\activity_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xhdpi_cloud.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xhdpi\\cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\menu_home_menu.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\menu\\home_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable_ic_baseline_check.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable\\ic_baseline_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-hdpi_favourite.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-hdpi\\favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxxhdpi_icon_mostly_sunny_small.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxxhdpi\\icon_mostly_sunny_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-hdpi_humidity.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-hdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-mdpi_icon_favourite.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-mdpi\\icon_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-mdpi_background.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xhdpi_icon_nothing.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xhdpi\\icon_nothing.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-mdpi_icon_nothing.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-mdpi\\icon_nothing.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxxhdpi_menu.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxxhdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxxhdpi_cloud.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxxhdpi\\cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\font_robotoregular.ttf.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\font\\robotoregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxxhdpi_icon_nothing.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxxhdpi\\icon_nothing.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-mdpi_back_arrow.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-mdpi\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable_ic_baseline_sunny.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable\\ic_baseline_sunny.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxhdpi_icon_nothing.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxhdpi\\icon_nothing.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxxhdpi_search.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxhdpi_cloud.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxhdpi\\cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\font_opensansregular.ttf.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\font\\opensansregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-hdpi_back_arrow.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-hdpi\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable_ic_baseline_cloud_24.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable\\ic_baseline_cloud_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable_selector_wishlist_item.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable\\selector_wishlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xhdpi_icon_mostly_sunny_small.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xhdpi\\icon_mostly_sunny_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\menu_search_menu.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\menu\\search_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-mdpi_humidity.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-mdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-hdpi_cloud.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-hdpi\\cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxxhdpi_humidity.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxxhdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-mdpi_favourite.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-mdpi\\favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\font_opensanssemibold.ttf.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\font\\opensanssemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.robosoft.weatherapp-merged_res-33:/layout_data_list_item.xml.flat",
+        "source": "com.robosoft.weatherapp-main-35:/layout/data_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-mdpi_icon_mostly_sunny_small.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-mdpi\\icon_mostly_sunny_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable_toggler_shape.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable\\toggler_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxxhdpi_icon_favourite.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxxhdpi\\icon_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-hdpi_icon_nothing.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-hdpi\\icon_nothing.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\font_emprintsemibold.ttf.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\font\\emprintsemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\layout_activity_recent_search.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\activity_recent_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxhdpi_background.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xhdpi_background.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xhdpi_back_arrow.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxhdpi_favourite.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxhdpi\\favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xhdpi_favourite.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xhdpi\\favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\layout-land_activity_home.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout-land\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\layout-land_custom_searchbar.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout-land\\custom_searchbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxhdpi_back_arrow.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable_ic_baseline_favorite.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable\\ic_baseline_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\font_opensansbold.ttf.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\font\\opensansbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-mdpi_menu.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-mdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-hdpi_temp.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-hdpi\\temp.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\layout_data_list_item.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\data_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-mdpi_cloud.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-mdpi\\cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxxhdpi_favourite.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxxhdpi\\favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxxhdpi_back_arrow.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxxhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxhdpi_icon_favourite.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxhdpi\\icon_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\layout_activity_search_screen.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout\\activity_search_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xxhdpi_icon_clear.xml.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xxhdpi\\icon_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\drawable-xhdpi_menu.png.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\drawable-xhdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-merged_res-33:\\font_robotomedium.ttf.flat",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\font\\robotomedium.ttf"
+    }
+]

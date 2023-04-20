@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.robosoft.weatherapp-mergeDebugResources-32:/layout-land/activity_home.xml",
+        "source": "com.robosoft.weatherapp-main-35:/layout-land/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-mergeDebugResources-32:\\layout-land\\activity_home.xml",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout-land\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-mergeDebugResources-32:\\layout-land\\custom_searchbar.xml",
+        "source": "C:\\Users\\Elavarasan T\\.gradle\\daemon\\7.3.3\\com.robosoft.weatherapp-main-35:\\layout-land\\custom_searchbar.xml"
+    }
+]
